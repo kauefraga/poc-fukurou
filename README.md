@@ -42,9 +42,9 @@ Para desenvolver essa prova de conceito utilizei uma extensão do Visual Studio 
 
 Lista de conteúdos e referências que consumi para criar este projeto:
 
-- HTML/CSS - A dupla dinâmica.
-- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
-- [Ícones](https://icones.js.org/collection/tdesign).
+- HTML/CSS - A dupla dinâmica 💖.
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Uma extensão muito prática e útil que inicia um servidor que disponibiliza meus arquivos estáticos (html, css, javascript, imagens...) com *hot reloading*.
+- [Ícones](https://icones.js.org/collection/tdesign) - Um site com muitos ícones.
 - [Extensão Notepado](https://chrome.google.com/webstore/detail/notepado/mjmbjjekpfbhmhbicijmjaogbgfbdmbm) - Adorei o design simplificado e o fato de ser uma extensão para a página inicial do navegador.
 
 ## 📝 Licença
