@@ -19,6 +19,23 @@ body {
   font-family: 'Inter', sans-serif;
 }
 
+#greetings {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  user-select: none;
+}
+
+#greetings > #clock {
+  font-size: 6rem;
+}
+
+#greetings > #hello {
+  font-size: 2rem;
+}
+
 main {
   display: flex;
   height: 100%;
