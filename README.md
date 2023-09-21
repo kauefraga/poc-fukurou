@@ -10,6 +10,7 @@
 Você pode acessar o site e ver com seus próprios olhos: [poc-fukurou](https://kauefraga.github.io/poc-fukurou).
 
 ![Uma imagem da primeira versão publicada com Github Pages](images/first-release.png)
+![Uma imagem da segunda versão publicada](images/second-release.png)
 
 ## ⬇ Como instalar e rodar
 
