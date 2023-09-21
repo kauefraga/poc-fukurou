@@ -36,6 +36,23 @@ main > nav > a {
   font-weight: bold;
 }
 
+main > nav > ul {
+  list-style: none;
+}
+
+main > nav > ul > li {
+  color: white;
+}
+
+main > nav > p {
+  color: white;
+}
+
+main > nav > p > a {
+  color: white;
+  text-decoration: none;
+}
+
 main > #note {
   padding: 1rem;
   margin: 1.5rem auto;
@@ -64,6 +81,7 @@ main > #note > #text {
   border: none;
   background-color: transparent;
   color: var(--main-color);
+  font-family: 'Inter', sans-serif;
   font-size: 1.25rem;
   font-weight: normal;
 }
