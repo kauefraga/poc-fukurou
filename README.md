@@ -1,3 +1,7 @@
+# ⚠ Atenção
+
+Este repositório foi arquivado. Você pode ver a extensão no repositório [Fukurou](https://github.com/kauefraga/fukurou).
+
 # Prova de Conceito | Fukurou (:brazil:)
 
 ![GitHub top language](https://img.shields.io/github/languages/top/kauefraga/poc-fukurou)
